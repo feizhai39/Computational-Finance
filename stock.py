@@ -2,7 +2,7 @@
 @project       : Queens College CSCI 365/765 Computational Finance
 @Instructor    : Dr. Alex Pang
 
-@Student Name  : To the Moon
+@Student Name  : Fei Zhai
 
 @Date          : June 2021
 
